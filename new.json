@@ -1,0 +1,15 @@
+{
+	"firstName": "Elena",
+	"lastName": "Kanshina",
+	"age": 30,
+	"pets": [
+	{
+		"type": "dog",
+		"name": "Ellie"
+	},
+	{	"type": "dog",
+		"name": "Bun"
+	}
+	       	],
+	"desired salary": 500
+}
