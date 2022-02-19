@@ -1,0 +1,4 @@
+{	
+	"git bash": "mkdir, touch, cd, find, tail, less, cat, pwd, ls, rm, mv, cp, date",
+	"git hub": "clone, add, commit, push"
+}
